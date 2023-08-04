@@ -1,1 +1,1 @@
-<h1 style="color: #7393B3">Weather App using HTML CSS and JavaScript</h1>
+<h1 style="color: red">Weather App using HTML CSS and JavaScript</h1>
