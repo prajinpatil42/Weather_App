@@ -5,5 +5,7 @@ application will show the temperature of a
 location. To fetch weather information we
 will need an API.</h1>
 
-![logo](https://github.com/prajinpatil42/Weather_App/blob/main/Weather_APP.jpg)
 ![logo](https://github.com/prajinpatil42/Weather_App/blob/main/WeatherAppSearchBox.jpg)
+<br>
+![logo](https://github.com/prajinpatil42/Weather_App/blob/main/Weather_APP.jpg)
+
